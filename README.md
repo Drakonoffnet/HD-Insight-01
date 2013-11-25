@@ -1,2 +1,2 @@
-HD-Insight-01
+HD Insight 01
 =============
